@@ -1,0 +1,21 @@
+//
+//  main.cpp
+//  StrategyGame
+//
+//  Created by Lukas Guz on 18.06.17.
+//  Copyright (c) 2017 Lukas Guz. All rights reserved.
+//
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#include "MainGame.h"
+
+
+int main(int argc, const char * argv[]) {
+
+    MainGame mainGame;
+    mainGame.Run();
+    
+    return 0;
+    
+}
